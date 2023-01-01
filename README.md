@@ -1,9 +1,9 @@
 # IMS-Project
 The desktop application displays number of products available, customer information, order information, and analytics. Made with C# and MySql. 
 
-#Inventory Management System Demo
+# Inventory Management System Demo
 
-##Programming Languages and Technology Used
+## Programming Languages and Technology Used
 - C#
 - MySql
 - .NET
